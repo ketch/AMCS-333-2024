@@ -10,7 +10,19 @@ Important project dates:
 - Project proposal due: February 28th
 - Progress report due: April 17th
 - Project presentations/reports due: May 5th &  8th
- 
+
+## Progress report (due April 25th)
+This is a written report of no more than 4 pages, meant to help ensure that you're making adequate progress on the project.
+You should explain ideas that you have learned so far, and describe any modifications you've had to make to the original project plan and scope.
+It's also a good idea to include some preliminary numerical results (since you have hopefully made at least a preliminary implementation
+of any algorithms involved).
+
+## Presentation (last week of class)
+You will give a presentation to the class which should take 25 minutes, leaving 5 minutes for questions.  The objective of the presentation is to teach
+the topic of your project to the other students in the course.  In most cases, you should include computational results from your own code as illustrations
+or examples.
+
+
 You are encouraged to come up with your own project topic.  Guidelines for the proposal 
 will be distributed during the first week of the course.  Your project topic should not 
 be very closely related to your thesis research.
