@@ -8,7 +8,7 @@ you have the option of writing a report or giving a presentation to the class.
 Important project dates:
 
 - Project proposal due: February 28th
-- Progress report due: April 17th
+- Progress report due: April 25th
 - Project presentations/reports due: May 5th &  8th
 
 ## Progress report (due April 25th)
